@@ -2,7 +2,7 @@
 ### Hi there, I'm Dilan. 😊👩‍💻
 
 ## Software Engineer 
-![](margaret_.gif)
+![](margaret.jpg)
 
 ### Tech I Use
 #### Backend
