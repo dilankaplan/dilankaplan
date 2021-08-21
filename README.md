@@ -37,6 +37,6 @@
 
 <details>
 <summary>  :bulb: Most Used Laguages </summary> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacagri&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilankaplan&layout=compact"/>
 </details>
 
